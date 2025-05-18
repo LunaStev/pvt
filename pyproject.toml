@@ -5,5 +5,6 @@ description = "PVT is AI model project"
 requires-python = ">=3.11"
 dependencies = [
     "numpy",
-    "torch"
+    "torch",
+    "flask"
 ]
